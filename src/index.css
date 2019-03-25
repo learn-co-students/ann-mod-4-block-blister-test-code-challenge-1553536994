@@ -1,0 +1,36 @@
+h1{
+  padding: 2rem;
+  color: white;
+}
+
+h2{
+  text-align: center;
+  margin: 2rem;
+  color: white;
+}
+
+.rounded{
+  border-radius: 25px;
+  padding: 30px;
+  width: 90%;
+  height: 100%;
+  margin: auto;
+}
+
+.center{
+  align-items: center;
+  margin: auto;
+}
+
+.card{
+  width: 200px;
+  margin: 10px auto;
+  text-align: center;
+  display: flex;
+}
+
+.list-group{
+  width: 50%;
+  margin: 0 auto;
+  text-align: center;
+}
