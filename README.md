@@ -93,6 +93,6 @@ When time is called, please stop coding, push your code to your fork, and submit
 
 3. Component lifecycle - Are the right component lifecycle methods used? Are they used for the correct purposes?
 
-4. Rendering - Is information rendered in the correct locations? Were you able to conditionally render different components (i.e. `BotSpecs` and `BotCollection`)?
+4. Rendering - Is information rendered in the correct locations? Were you able to conditionally render different components?
 
 __Good Luck!__
